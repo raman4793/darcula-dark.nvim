@@ -2,11 +2,11 @@
 local config = {
   opt = {
     integrations = {
-      telescope = true,
-      lualine = true,
-      lsp_semantics_token = true,
-      nvim_cmp = true,
-      dap_nvim = true,
+      telescope = false,
+      lualine = false,
+      lsp_semantics_token = false,
+      nvim_cmp = false,
+      dap_nvim = false,
     },
   },
 }
